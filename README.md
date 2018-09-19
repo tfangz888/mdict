@@ -1,0 +1,2 @@
+# mdict
+parse mdx/mdd
